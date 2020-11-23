@@ -1,0 +1,1 @@
+Sudo apt update && sudo apt install screen ppp hostapd nautilus chromium i3 -y && sudo apt upgrade -y
